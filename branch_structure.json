@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-2014-hello-world-events-rs-uses-a-10-character",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-2014-hello-world-events-rs-uses-a-10-character": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-2014-hello-world-events-rs-uses-a-10-character",
+    "origin"
+  ]
+}
